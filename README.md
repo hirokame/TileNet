@@ -4,7 +4,7 @@ This is the code for the TileNet model in the paper "Horizontally Tiled Network 
 <br> 
 <br>  
 The following outlines the correspondences between the codes and the figures:<br>  
-Figure3A: RL/V/main.ipynb<br>
+Figure3A:   RL/V/main.ipynb<br>
 Figure3B-G: VBG/Mazetask(1,6)/Analyze_SNcVBG(1,6).ipynb<br>
 Figure3H: RL/V/analyze.ipynb<br>
 <br>  
