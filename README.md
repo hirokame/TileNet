@@ -1,6 +1,9 @@
 # TileNet
 <br>  
-This is the code for the TileNet model in the paper "Horizontally Tiled Network of Cortico-Basal Ganglia Modules Performs Reinforcement Learning"
+This is the code for the TileNet model in the paper:  
+Horizontally Tiled Network of Cortico-Basal Ganglia Modules Performs Reinforcement Learning
+Kojiro Hirokane, Ryo Takehara, Tetsuji Kita, Shunya Onoi, Soma Matsushita, Takashi Kitsukawa
+bioRxiv 2025.06.18.660381; doi: https://doi.org/10.1101/2025.06.18.660381
 <br> 
 <br>  
 The following outlines the correspondences between the codes and the figures:<br>  
